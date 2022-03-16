@@ -1,9 +1,9 @@
 [
     {
         "image": "assets/img/projects/pngegg.png",
-        "title": "My Title 01",
-        "description": "My Description 01",
-        "link": "#"
+        "title": "웹 스크래핑 - 빅카인즈 뉴스: 검색/분석 ",
+        "description": "My Test 01",
+        "link": "https://colab.research.google.com/drive/1Yem5UpuEtPhxQLq_jaKTAmzXpxy8k0ni?usp=sharing"
     },
     {
         "image": "assets/img/projects/project2.jpg",

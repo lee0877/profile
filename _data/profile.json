@@ -3,7 +3,7 @@
     "image": "assets/img/user/pngegg.png",
     "email": "rhdlektm12@gmail.com",
     "phone": "+82 10 7202 6280",
-    "birth": "Aug 7, 2000",
+    "birth": "Aug 7, 2000 test1",
     "resumes": [
         {
             "label": "RESUME",
@@ -11,7 +11,7 @@
         },
         {
             "label": "PORTFOLIO",
-            "link": "https://swmaestro.org/sw/cmmn/file/fileDown.do?atchFileId=a269afb2417d46ff9a2167942b728001&fileSn=3"
+            "link": ""
         }
     ]
     

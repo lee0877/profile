@@ -16,23 +16,6 @@
         "title": "파이썬 문제풀이 게임",
         "description": "My Description 03",
         "link": "https://colab.research.google.com/drive/1gSCYrFnhNxdPzLcJzK5Cd7IvxS2wXWS8?usp=sharing"
-    },
-    {
-        "image": "assets/img/projects/project4.jpg",
-        "title": "My Title 04",
-        "description": "My Description 04",
-        "link": "#"
-    },
-    {
-        "image": "assets/img/projects/project5.jpg",
-        "title": "My Title 05",
-        "description": "My Description 05",
-        "link": "#"
-    },
-    {
-        "image": "assets/img/projects/project6.jpg",
-        "title": "My Title 06",
-        "description": "My Description 06",
-        "link": "#"
     }
+   
 ]
